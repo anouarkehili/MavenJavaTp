@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'D:/MavenProject/first-project/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/MavenProject/first-project/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'first-project 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/MavenProject/first-project/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'first-project 1.0-SNAPSHOT API'
+tpmaven
+D:\MavenProject\first-project\src\main\java = 1714121966812
+D:\MavenProject\first-project\target\site\apidocs\allclasses-index.html = 1714746635826
+D:\MavenProject\first-project\target\site\apidocs\allpackages-index.html = 1714746635838
+D:\MavenProject\first-project\target\site\apidocs\copy.svg = 1714746635949
+D:\MavenProject\first-project\target\site\apidocs\element-list = 1714746635649
+D:\MavenProject\first-project\target\site\apidocs\help-doc.html = 1714746635934
+D:\MavenProject\first-project\target\site\apidocs\index-all.html = 1714746635885
+D:\MavenProject\first-project\target\site\apidocs\index.html = 1714746635902
+D:\MavenProject\first-project\target\site\apidocs\link.svg = 1714746635952
+D:\MavenProject\first-project\target\site\apidocs\member-search-index.js = 1714746635848
+D:\MavenProject\first-project\target\site\apidocs\module-search-index.js = 1714746635842
+D:\MavenProject\first-project\target\site\apidocs\overview-tree.html = 1714746635795
+D:\MavenProject\first-project\target\site\apidocs\package-search-index.js = 1714746635844
+D:\MavenProject\first-project\target\site\apidocs\script.js = 1714746635946
+D:\MavenProject\first-project\target\site\apidocs\search-page.js = 1714746635964
+D:\MavenProject\first-project\target\site\apidocs\search.html = 1714746635895
+D:\MavenProject\first-project\target\site\apidocs\search.js = 1714746635961
+D:\MavenProject\first-project\target\site\apidocs\stylesheet.css = 1714746635942
+D:\MavenProject\first-project\target\site\apidocs\tag-search-index.js = 1714746635850
+D:\MavenProject\first-project\target\site\apidocs\type-search-index.js = 1714746635846

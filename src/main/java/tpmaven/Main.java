@@ -1,6 +1,16 @@
 package tpmaven;
 
+/**
+ * This class contains a method to calculate the factorial.
+ */
 public class Main {
+
+    /**
+     * This method calculates the factorial of a given integer.
+     * 
+     * @param n The number whose factorial will be calculated
+     * @return The factorial of the specified number as a long value
+     */
     public static long calculateFactorial(int n) {
         if (n == 0 || n == 1) {
             return 1;
@@ -12,8 +22,4 @@ public class Main {
             return result;
         }
     }
-
-    public static void main(String[] args) {
-    }
 }
-
